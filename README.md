@@ -1,12 +1,12 @@
 # This is Mini grocery store
 
-# There are six files in this projects
-# App.js is contains App module for route
-# Home Module Shows complete content
-# Header Module Heading and path of Home and About
-# products.js file contains 16 grocery items
-# Cart Module shows the all cart summery
-# CategoryFilter Module containes there are four category 
+//There are many modules in this projects
+//App.js is contains App module for route
+//Home Module Shows complete content
+//Header Module Heading and path of Home and About
+//products.js file contains 16 grocery items
+//Cart Module shows the all cart summery
+//CategoryFilter Module containes there are four category 
 
 # Initialize
     `npm install react react-dom react-router-dom`
