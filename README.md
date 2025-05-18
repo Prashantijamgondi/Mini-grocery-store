@@ -8,7 +8,7 @@
 //Cart Module shows the all cart summery
 //CategoryFilter Module containes there are four category 
 
-# Initialize
+# Install Packages
     `npm install react react-dom react-router-dom`
 
 # Dependencies 
