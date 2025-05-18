@@ -7,6 +7,7 @@
 //products.js file contains 16 grocery items
 //Cart Module shows the all cart summery
 //CategoryFilter Module containes there are four category 
+//All Module css containes in App.css
 
 # Install Packages
     `npm install react react-dom react-router-dom`
